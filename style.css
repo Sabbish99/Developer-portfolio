@@ -201,6 +201,7 @@ main {
 }
 
 .contact {
+    margin-top: 100px;
     display: flex;
     gap: 100px;
     background-color: rgb(255, 249, 217);
